@@ -1,14 +1,19 @@
-﻿# Welcome to Ethan Chen Blog
+﻿---
+hide:
+  - toc
+---
 
-<div class="hero">
-  <h1>Notes on code, learning, and growth</h1>
-  <p>
-    This is my personal space to publish technical notes, project updates,
-    and reflections from daily learning.
-  </p>
-  <div class="hero-actions">
-    <a class="hero-button primary" href="posts">Read Posts</a>
-    <a class="hero-button secondary" href="about">About Me</a>
+<div class="hero hero-full">
+  <div class="hero-inner">
+    <h1>Notes on code, learning, and growth</h1>
+    <p>
+      This is my personal space to publish technical notes, project updates,
+      and reflections from daily learning.
+    </p>
+    <div class="hero-actions">
+      <a class="hero-button primary" href="posts">Read Posts</a>
+      <a class="hero-button secondary" href="about.md">About Me</a>
+    </div>
   </div>
 </div>
 
@@ -59,5 +64,3 @@
     <a href="resources.md">Resources</a>
   </div>
 </div>
-
-
