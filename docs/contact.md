@@ -1,31 +1,28 @@
-# 📧 聯絡我
+# 📧 Contact
 
-歡迎與我聯繫！無論是技術討論、合作機會，或是單純想聊聊，都很歡迎。
+Feel free to reach out — whether it's about programming, projects, or just to say hi.
 
-## 📮 聯絡方式
+## 📮 How to reach me
 
-### 電子郵件
-📧 **Email:** your.email@example.com
+### Email
+📧 **Email:** [chenchen0980830@gmail.com](mailto:chenchen0980830@gmail.com)
 
-### 社交媒體
-- 🐙 **GitHub:** [@yourusername](https://github.com/yourusername)
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn:** [你的名字](https://linkedin.com/in/yourusername)
-- 📱 **其他平台:** （可自行添加）
+### Social
+- 🐙 **GitHub:** [@KuanKuanTan](https://github.com/KuanKuanTan)
 
-## 💬 聯絡主題
+## 💬 What we can talk about
 
-歡迎討論以下主題：
-- 💻 技術交流與討論
-- 🤝 專案合作機會
-- 📝 文章投稿或轉載
-- ❓ 技術問題諮詢
-- ☕ 單純想聊聊
+- 💻 Programming, tooling, and tech questions  
+- 🤝 Ideas for collaboration or side projects  
+- 📝 Feedback about posts on this blog  
+- ❓ Questions about how things are built here  
+- ☕ Or just a casual chat  
 
-## ⏰ 回覆時間
+## ⏰ Response time
 
-我會盡量在 **24-48 小時內**回覆您的訊息。如果比較緊急，建議使用其他聯絡方式。
+I'll try to reply within **24–48 hours**.  
+If something is urgent, please mention it clearly in the subject.
 
 ---
 
-**感謝您的來訪！** 🙏
+**Thanks for dropping by!** 🙏

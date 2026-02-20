@@ -6,14 +6,23 @@
   --md-accent-fg-color: #f97316;  /* amber/orange for accent */
 }
 
-/* 首頁 Hero 區塊 */
+/* 首頁 Hero 區塊（可搭配大背景圖） */
 .hero {
-  padding: 3rem 1.5rem;
+  position: relative;
+  padding: 3.5rem 1.8rem;
   border-radius: 1.5rem;
-  background: radial-gradient(circle at top left, #4f46e5, #0f172a);
+  /* 第一層是漸層遮罩，第二層是背景圖 */
+  background-image:
+    linear-gradient(135deg, rgba(15, 23, 42, 0.92), rgba(15, 23, 42, 0.45)),
+    url("../images/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   color: #f9fafb;
-  margin-bottom: 2rem;
+  margin-bottom: 2.2rem;
+  min-height: 260px;
   box-shadow: 0 20px 40px rgba(15, 23, 42, 0.4);
+  overflow: hidden;
 }
 
 .hero h1 {

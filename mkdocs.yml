@@ -1,11 +1,11 @@
-site_name: My Blog
-site_description: 個人部落格 - 分享技術、生活與思考
-site_author: Your Name
-site_url: https://yourusername.github.io/blog
+site_name: Ethan Chen Blog
+site_description: Personal blog of Ethan Chen (陳耘寬) about coding, learning and life.
+site_author: Ethan Chen (陳耘寬)
+site_url: https://kuankuantan.github.io/blog/
 
 theme:
   name: material
-  language: zh-TW
+  language: en
   palette:
     # 淺色模式
     - scheme: default
@@ -34,26 +34,24 @@ theme:
     repo: fontawesome/brands/github
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/yourusername
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/yourusername
+      link: https://github.com/KuanKuanTan
+    - icon: fontawesome/solid/envelope
+      link: mailto:chenchen0980830@gmail.com
 
 nav:
-  - 首頁: index.md
-  - 文章:
-    - 文章列表: posts/index.md
+  - Home: index.md
+  - Posts:
+    - Posts index: posts/index.md
     - MkDocs 入門：用簡單方式打造文件與部落格: posts/mkdocs-intro.md
     - MkDocs 進階技巧：打造專業級文件網站: posts/mkdocs-advanced.md
     - 範例文章: posts/example-post.md
-    - 分類: categories.md
-    - 標籤: tags.md
-    - 歸檔: archive.md
-  - 專案: projects.md
-  - 資源: resources.md
-  - 關於: about.md
-  - 聯絡: contact.md
+    - Categories: categories.md
+    - Tags: tags.md
+    - Archive: archive.md
+  - Projects: projects.md
+  - Resources: resources.md
+  - About: about.md
+  - Contact: contact.md
 
 plugins:
   - search:
@@ -61,6 +59,24 @@ plugins:
 
 extra_css:
   - assets/css/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/KuanKuanTan
+      name: GitHub
+    - icon: fontawesome/solid/envelope
+      link: mailto:chenchen0980830@gmail.com
+      name: Email
+  meta:
+    - property: og:title
+      content: Ethan Chen Blog
+    - property: og:description
+      content: Personal blog of Ethan Chen (陳耘寬) about coding, learning and life.
+    - property: og:image
+      content: assets/images/hero.jpg
+    - property: og:type
+      content: website
 
 markdown_extensions:
   - pymdownx.highlight:

@@ -1,20 +1,30 @@
-# 關於我
+# About
 
-你好！我是 [你的名字]，歡迎來到我的個人部落格。
+Hi, I'm **Ethan Chen (陳耘寬)**. Welcome to my personal blog.
 
-## 簡介
+## Who I am
 
-在這裡我會分享：
-- 💻 程式開發與技術學習心得
-- 📚 讀書筆記與思考
-- 🎯 專案經驗與實作分享
-- 💭 生活隨筆與想法
+I'm a student at NTFSH who enjoys:
 
-## 聯絡方式
+- 💻 Programming and learning new technologies  
+- 📚 Taking notes on what I read and learn  
+- 🎯 Building small projects and experimenting with ideas  
+- 💭 Writing down thoughts about life and growth  
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+This blog is my place to organize what I learn and share it with others.
+
+## What I write about
+
+- Technical notes and small tutorials  
+- Project ideas and experiments  
+- Study notes and summaries  
+- Occasional life logs and reflections  
+
+## Social & contact
+
+- GitHub: [@KuanKuanTan](https://github.com/KuanKuanTan)  
+- Email: [chenchen0980830@gmail.com](mailto:chenchen0980830@gmail.com)
 
 ---
 
-感謝你的造訪！🙏
+Thanks for visiting! 🙏
