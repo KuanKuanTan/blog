@@ -1,26 +1,26 @@
-site_name: Ethan Chen Blog
-site_description: Personal blog of Ethan Chen (陳耘寬) about coding, learning and life.
+﻿site_name: Ethan Chen Blog
+site_description: Personal blog of Ethan Chen (陳耘寬) about coding, learning, and life.
 site_author: Ethan Chen (陳耘寬)
 site_url: https://kuankuantan.github.io/blog/
+repo_url: https://github.com/KuanKuanTan/blog
+repo_name: KuanKuanTan/blog
 
 theme:
   name: material
   language: en
   palette:
-    # 淺色模式
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
-        name: 切換到深色模式
-    # 深色模式
+        name: Switch to dark mode
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-4
-        name: 切換到淺色模式
+        name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.sections
@@ -32,19 +32,13 @@ theme:
     - content.code.copy
   icon:
     repo: fontawesome/brands/github
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/KuanKuanTan
-    - icon: fontawesome/solid/envelope
-      link: mailto:chenchen0980830@gmail.com
 
 nav:
   - Home: index.md
   - Posts:
-    - Posts index: posts/index.md
-    - MkDocs 入門：用簡單方式打造文件與部落格: posts/mkdocs-intro.md
-    - MkDocs 進階技巧：打造專業級文件網站: posts/mkdocs-advanced.md
-    - 範例文章: posts/example-post.md
+    - Posts Index: posts/index.md
+    - MkDocs Intro (中文): posts/mkdocs-intro.md
+    - MkDocs Advanced (中文): posts/mkdocs-advanced.md
     - Categories: categories.md
     - Tags: tags.md
     - Archive: archive.md
@@ -55,7 +49,13 @@ nav:
 
 plugins:
   - search:
-      lang: zh
+      lang:
+        - en
+        - zh
+  - social:
+      cards_layout_options:
+        background_color: "#111827"
+        color: "#f9fafb"
 
 extra_css:
   - assets/css/custom.css
@@ -68,15 +68,7 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:chenchen0980830@gmail.com
       name: Email
-  meta:
-    - property: og:title
-      content: Ethan Chen Blog
-    - property: og:description
-      content: Personal blog of Ethan Chen (陳耘寬) about coding, learning and life.
-    - property: og:image
-      content: assets/images/hero.jpg
-    - property: og:type
-      content: website
+  generator: false
 
 markdown_extensions:
   - pymdownx.highlight:

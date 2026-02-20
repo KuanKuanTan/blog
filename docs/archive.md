@@ -1,28 +1,13 @@
-# 文章歸檔
+﻿# Archive
 
-按時間順序整理的所有文章。
+A timeline of published posts.
 
-## 2026 年
+## 2026
 
-### 二月
-- [範例文章](posts/example-post.md) - 2026年2月20日
+- [MkDocs 入門：從 0 開始建立個人技術部落格](posts/mkdocs-intro.md)
+- [MkDocs 進階設定：主題、插件與部署實戰](posts/mkdocs-advanced.md)
 
-### 一月
-<!-- 未來文章會顯示在這裡 -->
+## Summary
 
-## 2025 年
-
-### 十二月
-<!-- 未來文章會顯示在這裡 -->
-
----
-
-## 統計資訊
-
-- **總文章數：** 1 篇
-- **總分類數：** 4 個
-- **總標籤數：** 10+ 個
-
----
-
-**提示：** 文章會按照發布日期自動歸檔到對應的月份和年份。
+- Total posts: 2
+- Main topics: MkDocs, blog setup, deployment

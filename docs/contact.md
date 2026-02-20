@@ -1,28 +1,15 @@
-# 📧 Contact
+﻿# Contact
 
-Feel free to reach out — whether it's about programming, projects, or just to say hi.
+Feel free to reach out for technical discussion, collaboration ideas, or feedback.
 
-## 📮 How to reach me
+## Email
 
-### Email
-📧 **Email:** [chenchen0980830@gmail.com](mailto:chenchen0980830@gmail.com)
+- [chenchen0980830@gmail.com](mailto:chenchen0980830@gmail.com)
 
-### Social
-- 🐙 **GitHub:** [@KuanKuanTan](https://github.com/KuanKuanTan)
+## GitHub
 
-## 💬 What we can talk about
+- [@KuanKuanTan](https://github.com/KuanKuanTan)
 
-- 💻 Programming, tooling, and tech questions  
-- 🤝 Ideas for collaboration or side projects  
-- 📝 Feedback about posts on this blog  
-- ❓ Questions about how things are built here  
-- ☕ Or just a casual chat  
+## Response
 
-## ⏰ Response time
-
-I'll try to reply within **24–48 hours**.  
-If something is urgent, please mention it clearly in the subject.
-
----
-
-**Thanks for dropping by!** 🙏
+I usually reply within 24 to 48 hours.
