@@ -7,6 +7,7 @@
 ### 💻 技術文章
 
 - [MkDocs 入門：用簡單方式打造文件與部落格](mkdocs-intro.md)
+- [MkDocs 進階技巧：打造專業級文件網站](mkdocs-advanced.md)
 - [範例文章](example-post.md) - 這是一篇範例文章，展示如何在部落格中撰寫文章
 
 ### 📖 學習筆記
