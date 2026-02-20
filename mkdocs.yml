@@ -57,7 +57,10 @@ nav:
 
 plugins:
   - search:
-      lang: zh-TW
+      lang: zh
+
+extra_css:
+  - assets/css/custom.css
 
 markdown_extensions:
   - pymdownx.highlight:
