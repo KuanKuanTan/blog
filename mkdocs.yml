@@ -44,6 +44,7 @@ nav:
   - 首頁: index.md
   - 文章:
     - 文章列表: posts/index.md
+    - MkDocs 入門：用簡單方式打造文件與部落格: posts/mkdocs-intro.md
     - 範例文章: posts/example-post.md
     - 分類: categories.md
     - 標籤: tags.md
