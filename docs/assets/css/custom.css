@@ -39,6 +39,20 @@
   background-position: center center;
 }
 
+/* Home page full-bleed layout: remove sidebar/grid constraints only when hero-full exists */
+.md-main__inner:has(.hero-full) {
+  display: block;
+  max-width: none;
+}
+
+.md-main__inner:has(.hero-full) .md-sidebar--primary {
+  display: none;
+}
+
+.md-main__inner:has(.hero-full) .md-content {
+  margin-left: 0;
+}
+
 .hero-inner {
   width: min(1100px, 100%);
   margin: 0 auto;
