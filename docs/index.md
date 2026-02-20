@@ -7,8 +7,8 @@
     and reflections from daily learning.
   </p>
   <div class="hero-actions">
-    <a class="hero-button primary" href="posts/index.md">Read Posts</a>
-    <a class="hero-button secondary" href="about.md">About Me</a>
+    <a class="hero-button primary" href="posts">Read Posts</a>
+    <a class="hero-button secondary" href="about">About Me</a>
   </div>
 </div>
 
@@ -60,8 +60,4 @@
   </div>
 </div>
 
-## Built With { .homepage-section }
 
-This site is built with [MkDocs](https://www.mkdocs.org/) and
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/),
-and published to GitHub Pages.
