@@ -1,51 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://yourusername.github.io/blog/</loc>
+         <loc>https://kuankuantan.github.io/blog/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/about/</loc>
+         <loc>https://kuankuantan.github.io/blog/about/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/archive/</loc>
+         <loc>https://kuankuantan.github.io/blog/archive/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/categories/</loc>
+         <loc>https://kuankuantan.github.io/blog/categories/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/contact/</loc>
+         <loc>https://kuankuantan.github.io/blog/contact/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/projects/</loc>
+         <loc>https://kuankuantan.github.io/blog/projects/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/resources/</loc>
+         <loc>https://kuankuantan.github.io/blog/resources/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/tags/</loc>
+         <loc>https://kuankuantan.github.io/blog/tags/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/posts/</loc>
+         <loc>https://kuankuantan.github.io/blog/posts/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/posts/example-post/</loc>
+         <loc>https://kuankuantan.github.io/blog/posts/mkdocs-advanced/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/blog/posts/mkdocs-advanced/</loc>
-         <lastmod>2026-02-20</lastmod>
-    </url>
-    <url>
-         <loc>https://yourusername.github.io/blog/posts/mkdocs-intro/</loc>
+         <loc>https://kuankuantan.github.io/blog/posts/mkdocs-intro/</loc>
          <lastmod>2026-02-20</lastmod>
     </url>
 </urlset>
