@@ -1,9 +1,19 @@
 /* 主色調微調，讓網站更有個人風格 */
 :root {
-  --md-primary-fg-color: #6366f1;  /* indigo-500 */
-  --md-primary-fg-color--light: #a5b4fc;
-  --md-primary-fg-color--dark: #4f46e5;
-  --md-accent-fg-color: #f97316;  /* amber/orange for accent */
+  --md-primary-fg-color: #0f766e;
+  --md-primary-fg-color--light: #14b8a6;
+  --md-primary-fg-color--dark: #115e59;
+  --md-accent-fg-color: #f59e0b;
+}
+
+/* Header and tabs with image background */
+.md-header,
+.md-tabs {
+  background-image:
+    linear-gradient(135deg, rgba(15, 23, 42, 0.68), rgba(30, 58, 138, 0.52)),
+    url("images/hero.jpg");
+  background-size: cover;
+  background-position: center top;
 }
 
 /* 首頁 Hero 區塊（可搭配大背景圖） */
@@ -101,13 +111,13 @@
 }
 
 .hero-button.primary {
-  background: #f97316;
+  background: #f59e0b;
   color: #0f172a;
-  box-shadow: 0 12px 25px rgba(249, 115, 22, 0.4);
+  box-shadow: 0 12px 25px rgba(245, 158, 11, 0.4);
 }
 
 .hero-button.primary:hover {
-  background: #fb923c;
+  background: #fbbf24;
   transform: translateY(-1px);
 }
 
@@ -141,7 +151,7 @@
 .card:hover {
   transform: translateY(-3px);
   box-shadow: 0 18px 30px rgba(15, 23, 42, 0.12);
-  border-color: rgba(99, 102, 241, 0.8);
+  border-color: rgba(20, 184, 166, 0.75);
   background: rgba(15, 23, 42, 0.04);
 }
 

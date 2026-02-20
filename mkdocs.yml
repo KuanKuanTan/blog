@@ -9,16 +9,17 @@ theme:
   name: material
   custom_dir: docs/overrides
   language: en
+  favicon: assets/images/site-icon.svg
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -32,6 +33,7 @@ theme:
     - content.code.annotate
     - content.code.copy
   icon:
+    logo: material/book-open-page-variant
     repo: fontawesome/brands/github
 
 nav:
